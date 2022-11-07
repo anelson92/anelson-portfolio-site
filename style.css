@@ -1,0 +1,99 @@
+* {margin: 0px;
+padding: 5px;
+font-family: Tahoma, "sans-serif";
+}
+
+header {
+    border-bottom: 2px solid black;
+    background: #6C809A;
+    color: #75BBA7;
+    padding: 5px; 
+    font-size: 20px;
+}
+
+/* hero-image {
+  
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 50%;
+} */
+
+ul li {
+    list-style: none;
+    color: #75BBA7;
+    display: inline;
+    font-size: 16px;
+    text-align: right;
+}
+
+body {
+    background: #E3F3EE; 
+}
+
+h1, ul {
+    display:inline-block;
+
+}
+
+#amanda {
+    max-width: 200px;
+    float: right; 
+}
+
+
+section {
+    list-style: none;
+    color: #75BBA7;
+    display: inline-flex;
+    font-size: 16px;
+    text-align: center;
+}
+#aboutme {
+    font-size: 30px;
+    font-weight: 200;
+    border-left: 2px black;
+    color: #6C809A;
+}
+
+#work {
+    font-size: 30px;
+    font-weight: 200;
+    display: inline-block;
+    color: #6C809A;
+}
+
+#project0 {
+    max-width: 830px;
+}
+
+#contact {
+    font-size: 30px;
+    font-weight: 200;
+    color:#6C809A;
+}
+#resume {
+    font-size: 30px;
+    font-weight: 200;
+    color: #6C809A;
+}
+h2 {
+    float: left;
+    padding: 10 px;
+}
+
+p {
+    float:inline-start;
+}
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+footer {
+    text-align: center;
+    color: #6C809A;
+}
